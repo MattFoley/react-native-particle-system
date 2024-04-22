@@ -4,7 +4,7 @@
 'use strict';
 
 import React from 'react';
-import {requireNativeComponent, View, ViewProps} from 'react-native';
+import {requireNativeComponent, ViewProps} from 'react-native';
 var GPHParticleView = requireNativeComponent('GPHParticleView');
 
 

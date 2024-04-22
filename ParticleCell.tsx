@@ -6,7 +6,7 @@
 
 import React from 'react';
 import type {ColorValue, OpaqueColorValue, ProcessedColorValue} from 'react-native';
-import {requireNativeComponent, HostComponent, processColor} from 'react-native';
+import {requireNativeComponent, processColor} from 'react-native';
 
 
 type IFillMode = 'backwards' | 'forwards' | 'both' | 'removed';
